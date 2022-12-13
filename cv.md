@@ -2,15 +2,15 @@
 
 ### 2. Contacts:
 
-Discord: JAA187
+*Discord: JAA187*
 
-E-mail: iq1871987@gmail.com
+__E-mail: iq1871987@gmail.com__
 
-Tel: +375298644567
+___Tel: +375298644567___
 
 ### 3. About myself:
 
-I am 35 years old, I want to work as JS FE developer, but I don't have any experience yet
+_I am 35 years old, I want to work as JS FE developer, but I don't have any experience yet_
 
 ### 4. Skills:
 - HTML
