@@ -19,6 +19,18 @@ I am 35 years old, I want to work as JS FE developer, but I don't have any exper
 
 ### 5. Code example:
 
+<!DOCTYPE html>
+<html>
+ <head>
+       <title>Page 1</title>
+ </head>
+ <body>
+  <div>
+   <p>Hello world!</p>
+  </div>
+ </body>
+</html>
+
 ### 6. Work experience:
 
 I don't have any experience yet
